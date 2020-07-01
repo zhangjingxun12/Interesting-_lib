@@ -2,17 +2,23 @@
 # 个人搜集
 
   ## pcb工具
-   [Kicad](https://github.com/KiCad)
+   [Kicad项目地址](https://github.com/KiCad)
   ## GUI
-   [LVGL](https://github.com/littlevgl/lvgl) [c/c++]
+   [LVGL项目地址](https://github.com/littlevgl/lvgl) [c/c++]
    
    各平台
   ## RTOS
-  [SL_RTE](https://github.com/sudashannon/SL_RTE)  [c/c++]
+  [SL_RTE项目地址](https://github.com/sudashannon/SL_RTE)  [c/c++]
   ## mqttclient
-  [mqttclient](https://github.com/jiejieTop/mqttclient)[c/c++]
+  [mqttclient项目地址](https://github.com/jiejieTop/mqttclient)[c/c++]
   
   一个高性能、高稳定性的跨平台MQTT客户端，基于socket API之上开发，可以在嵌入式设备（FreeRTOS/LiteOS/RT-Thread/TencentOS tiny）、Linux、Windows、Mac上使用，拥有非常简洁的API接口，以极少的资源实现QOS2的服务质量，并且无缝衔接了mbedtls加密库。
+  ## BiscuitOS
+  [BiscuitOS项目地址](https://github.com/BiscuitOS/BiscuitOS)[c/c++]
+  
+  [主页说明](https://biscuitos.github.io/blog/HomePage/)
+  
+  BiscuitOS 是一个用于制作基于古老版本和最新版本 Linux 发行版的开源项目，其主要 目的是给开发者提供一个简单， 易用，有趣的 Linux 制作，运行和调试环境，让开发者 专注于代码调试，减少繁琐的移植和编译问题。 BiscuitOS 已经支持 Linux 0.x, 1.x, 2.x, 3.x, 4.x 和 5.x 多个版本 Linux。
 # 别人搜集的C/C++库
   [包含有图片、truetype、3d、AI、音频等](https://github.com/nothings/single_file_libs)[c/c++]
   
