@@ -31,4 +31,6 @@
   [Ihateregex](https://ihateregex.io/)        [regex101](https://regex101.com/)
 # 浏览器插件工具
   [tampermonkey](https://www.tampermonkey.net/)
+# 网友整理的算法
+  [小浩算法](https://github.com/geekxh/hello-algorithm)
  
