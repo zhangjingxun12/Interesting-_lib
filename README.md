@@ -33,5 +33,7 @@
   [tampermonkey](https://www.tampermonkey.net/)
 # 网友整理的算法
   [小浩算法](https://github.com/geekxh/hello-algorithm)
-# 网络安全
+# 系统运维
+  [Lancger的Linux运维手册](https://github.com/Lancger/opslinux)
+  ## 1.网络安全
   [看到的一个做网络安全的作者](https://gitee.com/sq_smile) 东西感觉很全
