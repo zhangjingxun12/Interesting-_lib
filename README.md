@@ -1,8 +1,13 @@
 # 记录一些感兴趣的库及工具
 # 个人搜集
 
-  ## pcb工具
+  ## PCB工具及模型
+   一款开源的PCB工具，可以在linux下画图了
    [Kicad项目地址](https://github.com/KiCad)
+   
+   一个免费下载3D CAD 模型、2D 工程图的网站
+   [3D ContentCentral](https://www.3dcontentcentral.cn/#_ga=2.91922648.354983100.1597367862-3a2ad240-b5be-11ea-8463-53e45720f3eb)【
+   [我创建的几个3D元件](https://www.3dcontentcentral.cn/Contributors.aspx?id=1986356)】
   ## GUI
    [LVGL项目地址](https://github.com/littlevgl/lvgl) [c/c++]
    
