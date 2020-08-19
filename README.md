@@ -33,8 +33,9 @@
   [Bejson](http://www.bejson.com/)\
   [程序员的工具箱](https://tool.lu/)
   
-  验证正则表达式及学习的网站：
-  [Ihateregex](https://ihateregex.io/)        [regex101](https://regex101.com/)
+  验证及学习正则表达式的网站：\
+  [Ihateregex](https://ihateregex.io/)\
+  [regex101](https://regex101.com/)
   
 # 浏览器插件工具
   [tampermonkey](https://www.tampermonkey.net/)
