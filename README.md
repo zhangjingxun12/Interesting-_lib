@@ -24,7 +24,7 @@
   [主页说明](https://biscuitos.github.io/blog/HomePage/)
   
   BiscuitOS 是一个用于制作基于古老版本和最新版本 Linux 发行版的开源项目，其主要 目的是给开发者提供一个简单， 易用，有趣的 Linux 制作，运行和调试环境，让开发者 专注于代码调试，减少繁琐的移植和编译问题。 BiscuitOS 已经支持 Linux 0.x, 1.x, 2.x, 3.x, 4.x 和 5.x 多个版本 Linux。
-# 搜集的一些开发库(包括网友整理已整理的)
+# 搜集的一些开发库(包括网友已整理的)
   [发现网友整理的包含有图片、truetype、3d、AI、音频等](https://github.com/nothings/single_file_libs)[c/c++]\
   [一个C语言的正则表达式的库](https://gitee.com/opensource168/hs-regex)[c]\
   [quirc-二维码解码库](https://github.com/dlbeer/quirc)[c]\
