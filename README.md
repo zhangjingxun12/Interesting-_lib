@@ -9,8 +9,8 @@
    [3D ContentCentral](https://www.3dcontentcentral.cn/#_ga=2.91922648.354983100.1597367862-3a2ad240-b5be-11ea-8463-53e45720f3eb)【
    [我上传的几个3D元件](https://www.3dcontentcentral.cn/Contributors.aspx?id=1986356)】
   ## GUI
-   + [LVGL项目地址](https://github.com/littlevgl/lvgl) [c/c++]\
-   + lkdGUi [guihub](https://github.com/guoweilkd/lkdGui) [##码云](https://gitee.com/nhxgygrd053/lkdGui)[c]\
+   + [LVGL项目地址](https://github.com/littlevgl/lvgl) [c/c++]
+   + lkdGUi [guihub](https://github.com/guoweilkd/lkdGui) [码云](https://gitee.com/nhxgygrd053/lkdGui)[c]
    + simpleGUI [github]() [码云](https://gitee.com/Polarix/simplegui)[c]
    
    各平台
@@ -27,18 +27,18 @@
   
   &emsp;&emsp; BiscuitOS 是一个用于制作基于古老版本和最新版本 Linux 发行版的开源项目，其主要 目的是给开发者提供一个简单， 易用，有趣的 Linux 制作，运行和调试环境，让开发者 专注于代码调试，减少繁琐的移植和编译问题。 BiscuitOS 已经支持 Linux 0.x, 1.x, 2.x, 3.x, 4.x 和 5.x 多个版本 Linux。
 # 搜集的一些开发库(包括网友已整理的)
-  + [发现网友整理的包含有图片、truetype、3d、AI、音频等](https://github.com/nothings/single_file_libs)[c/c++]\
-  + [一个C语言的正则表达式的库](https://gitee.com/opensource168/hs-regex)[c]\
-  + [quirc-二维码解码库](https://github.com/dlbeer/quirc)[c]\
-  + [python下的艺术二维码生成](https://github.com/sylnsfar/qrcode)[python]【做生产打标不知道可不可以用，mark下】\
+  + [发现网友整理的包含有图片、truetype、3d、AI、音频等](https://github.com/nothings/single_file_libs)[c/c++]
+  + [一个C语言的正则表达式的库](https://gitee.com/opensource168/hs-regex)[c]
+  + [quirc-二维码解码库](https://github.com/dlbeer/quirc)[c]
+  + [python下的艺术二维码生成](https://github.com/sylnsfar/qrcode)[python]【做生产打标不知道可不可以用，mark下】
   + [Qrcode生成库](https://github.com/ricmoo/QRCode)[c]
 # 常用的在线工具或网站
   综合性的：\
-  + [Bejson](http://www.bejson.com/)\
+  + [Bejson](http://www.bejson.com/)
   + [程序员的工具箱](https://tool.lu/)
   
   验证及学习正则表达式的网站：\
-  + [Ihateregex](https://ihateregex.io/)\
+  + [Ihateregex](https://ihateregex.io/)
   + [regex101](https://regex101.com/)
   
 # 浏览器插件工具
