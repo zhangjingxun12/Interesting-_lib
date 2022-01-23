@@ -3,7 +3,7 @@
 
   ##  PCB工具及模型
    + 一款开源的PCB工具，可以在linux下画图了
-   [<b>Kicad项目地址</b>](https://github.com/KiCad)【[官网](https://kicad-pcb.org/)】
+   [<b>Kicad项目地址</b>](https://github.com/KiCad)【[官网](https://kicad.org/)】
    
    + 一个免费下载3D CAD 模型、2D 工程图的网站
    [3D ContentCentral](https://www.3dcontentcentral.cn/#_ga=2.91922648.354983100.1597367862-3a2ad240-b5be-11ea-8463-53e45720f3eb)【
