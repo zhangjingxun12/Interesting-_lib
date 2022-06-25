@@ -2,8 +2,8 @@
 # 个人搜集
 
   ## 技能拓展
-  + [<b>开源库大全1<b>](https://www.cnblogs.com/chengyuanchun/p/5107978.html) 
-  + [<b>开源库大全2<b>](https://github.com/jobbole/awesome-c-cn)
+  + [<b>开源库大全1<b>](https://www.cnblogs.com/chengyuanchun/p/5107978.html) C++相关的一些开源库
+  + [<b>开源库大全2<b>](https://github.com/jobbole/awesome-c-cn) C相关的一些开源库
   + [<b>IOT技能图谱<b>](https://github.com/IoT-Technology/IoT-Technical-Guide)IoT-Technical-Guide --- 从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析
   + [<b>IoT-Firstep<b>](https://github.com/nladuo/IoT-Firstep)一个物联网(IoT)开发的入门教程。涉及单片机、上位机、移动应用、服务器后台开发的知识。以及蓝牙4.0、以太网模块的使用实例。
   + [<b>IotXmpp<b>](https://github.com/tiandawu/IotXmpp) 开源的安卓应用，可接入传感器 
