@@ -1,6 +1,10 @@
 # 记录一些感兴趣的库及工具
 # 个人搜集
 
+  ## IOT学习
+  + IoT Technical Guide --- 从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析
+  [<b>IOT技能路线<b>](https://github.com/IoT-Technology/IoT-Technical-Guide)
+
   ##  PCB工具及模型
    + 一款开源的PCB工具，可以在linux下画图了
    [<b>Kicad项目地址</b>](https://github.com/KiCad)【[官网](https://kicad.org/)】
