@@ -44,11 +44,11 @@
   + [python下的艺术二维码生成](https://github.com/sylnsfar/qrcode)[python]【做生产打标不知道可不可以用，mark下】
   + [Qrcode生成库](https://github.com/ricmoo/QRCode)[c]
 # 常用的在线工具或网站
-  综合性的：\
+  综合性的：
   + [Bejson](http://www.bejson.com/)
   + [程序员的工具箱](https://tool.lu/)
   
-  验证及学习正则表达式的网站：\
+  验证及学习正则表达式的网站：
   + [Ihateregex](https://ihateregex.io/)
   + [regex101](https://regex101.com/)
   
@@ -58,5 +58,5 @@
   + [小浩算法](https://github.com/geekxh/hello-algorithm)
 # 系统运维
   + [Lancger的Linux运维手册](https://github.com/Lancger/opslinux)
-  ##  1.网络安全
+  ##  网络安全
   + [看到的一个做网络安全的作者](https://gitee.com/sq_smile) 东西感觉很全
