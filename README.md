@@ -2,8 +2,11 @@
 # 个人搜集
 
   ## IOT学习
-  + IoT Technical Guide --- 从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析
-  [<b>IOT技能路线<b>](https://github.com/IoT-Technology/IoT-Technical-Guide)
+  + [<b>IOT技能路线<b>](https://github.com/IoT-Technology/IoT-Technical-Guide)IoT-Technical-Guide --- 从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析
+  
+  
+  + [<b>IoT-Firstep<b>](https://github.com/nladuo/IoT-Firstep)一个物联网(IoT)开发的入门教程。涉及单片机、上位机、移动应用、服务器后台开发的知识。以及蓝牙4.0、以太网模块的使用实例。
+  
 
   ##  PCB工具及模型
    + 一款开源的PCB工具，可以在linux下画图了
